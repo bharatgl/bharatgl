@@ -9,7 +9,6 @@
 - 🌱 Learning **React**
 - 👯 Open to work as a Developer/Engineer.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: **bgoyal1471@gmail.com**
 - ⚡ Fun fact: **I code and click 📷**
 
 <br />
