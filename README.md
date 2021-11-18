@@ -17,13 +17,13 @@
 [![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharatgoyal1471&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/bharatgoyal1471/github-readme-stats)
 ![Bharat's github activity graph](https://activity-graph.herokuapp.com/graph?username=bharatgoyal1471&theme=dracula)
 
-### Connect with me:
+<!-- ### Connect with me:
 [![GitHub bharatgoyal1471](https://img.shields.io/github/followers/bharatgoyal1471?label=Bharat_Goyal&style=social)](https://github.com/bharatgoyal1471)
 [![Linkedin: Bharat Goyal](https://img.shields.io/badge/-Bharat%20Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BharatGoyal/)](https://www.linkedin.com/in/bharatgoyal1471/
               )
 [![Twitter: Bharat Goyal](https://img.shields.io/twitter/follow/Bharat_Goyal?style=social)](https://twitter.com/mebharatgoyal)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=bharatgoyal1471&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Bharat%20Goyal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@bgoyal1471)](https://bgoyal1471.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-@Bharat%20Goyal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@bgoyal1471)](https://bgoyal1471.medium.com/) -->
 
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
