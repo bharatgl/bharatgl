@@ -25,6 +25,21 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=bharatgoyal1471&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Bharat%20Goyal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@bgoyal1471)](https://bgoyal1471.medium.com/)
 
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<p align="left">
+<div class="footer" id="top3">
+  <center> 
+   <a href="https://www.linkedin.com/in/bharatgoyal1471" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
+   <a href="https://github.com/bharatgoyal1471" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
+    <a href="https://www.twitter.com/mebharatgoyal" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
+    <a href="https://bgoyal1471.medium.com/" class="pics"><img src="pics/medium1.png" height="36vh">  </a>
+<!--   <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh">  </a> -->
+<!--   <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh">  </a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a> -->
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=bgoyal1471@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
+  
+  </div>
+</p>
  
 
 
