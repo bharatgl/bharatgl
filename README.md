@@ -13,9 +13,17 @@
 
 <br />
 
-[![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharatgoyal1471&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/bharatgoyal1471/github-readme-stats)
-![Bharat's github activity graph](https://activity-graph.herokuapp.com/graph?username=bharatgoyal1471&theme=dracula)
+<hr/>
 
+![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bharatgoyal1471&theme=dracula)
+
+<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=bharatgoyal1471&show_icons=true&theme=radical&count_private=true'/>
+</p>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bharatgoyal1471&count_private=true&theme=radical" alt="chhabraharsh37"/>
+ <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgoyal1471&count_private=true&theme=radical&layout=compact" alt="chhabraharsh37" />
+ 
+ <p align="center"> 
+<hr/>
 <!-- ### Connect with me:
 [![GitHub bharatgoyal1471](https://img.shields.io/github/followers/bharatgoyal1471?label=Bharat_Goyal&style=social)](https://github.com/bharatgoyal1471)
 [![Linkedin: Bharat Goyal](https://img.shields.io/badge/-Bharat%20Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BharatGoyal/)](https://www.linkedin.com/in/bharatgoyal1471/
@@ -39,27 +47,38 @@
   
   </div>
 </p>
- 
 
 
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/java.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+<p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
+<a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'> </a>
+<a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'> </a>
+<a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'> </a>
+<a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='pics/javascript.svg'> </a>
+<!-- <a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='pics/typescript.svg'> </a> -->
+<!-- <a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='pics/c.svg'> </a> -->
+<!-- <a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='pics/cpp.svg'> </a> -->
+<!-- <a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='pics/python.svg'> </a> -->
+<a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='pics/nodejs.svg'> </a>
+<a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='pics/reactjs.svg'> </a>
+<!-- <a href= https://github.com/bharatgoyal1471bharatgoyal1471?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='pics/ruby.svg'> </a> -->
+<a href= "https://www.mongodb.com"/> <img width ='32px' src ='pics/mongodb.svg'> </a>
+<a href= "https://www.mysql.com/"> <img width ='32px' src ='pics/mysql.svg'> </a>
+<a href= "https://git-scm.com/"> <img width ='32px' src ='pics/git.svg'> </a>
+<a href= "https://github.com/bharatgoyal1471"> <img width ='32px' src ='pics/github.svg'> </a>
+<!-- <a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'> </a> -->
+<!-- <a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'> </a> -->
+<a href= "https://www.postman.com/bharatgoyal1471"> <img width ='32px' src ='pics/postman.svg'> </a>
+<a href= "https://firebase.google.com/"> <img width ='32px' src ='pics/firebase.svg'> </a>
+<!-- <a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'> </a> -->
+<!-- <a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a> -->
+<!-- <a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a> -->
+<!-- <a href= "https://www.linux.org/"> <img width ='32px' src ='pics/linux.svg'> </a></p> -->
+<!-- <a href= https://github.com/bharatgoyal1471?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='pics/jupyter.svg'> </a> --->
+
+<br>
 
 ---
 
