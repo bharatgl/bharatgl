@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" height=50% width=100% >
+<img src="https://rishavanand.github.io/static/images/greetings.gif" height=50% width=70% >
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="50px" height="50px"align="left"></img> <br><br>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=I'm+Bharat_Goyal+coder/Developer..%2C)](https://git.io/typing-svg) 
