@@ -5,7 +5,7 @@
   <img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
   
 
-- 🔭 Currently working on **Some Self Projects**
+- 🔭 Currently working on **Some Personal Projects**
 - 🌱 Learning **React**
 - 👯 Open to work as a Developer/Engineer.
 - 🥅 2021 Goals: Contribute more to Open Source projects
