@@ -7,7 +7,7 @@
 - 🔭 Currently working on **Some Personal Projects**
 - 🌱 Learning **React**
 - 👯 Open to work as a **Developer/Engineer.**
-- 🥅 2021 Goals: Contribute more to **Open Source projects**
+- 🥅 2022 Goals: Contribute more to **Open Source projects**
 - ⚡ Fun fact: **I code and click 📷**
 
 <img align="right" width="48%" src='https://github-readme-stats.vercel.app/api?username=Goyal-Bharat&hide=issues&count_private=true&show_icons=true&theme=calm'/>
