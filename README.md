@@ -9,11 +9,12 @@ I am a Student and Full Stack Developer
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am enthusiast about open source projects
-
+<br>
 <a href="https://www.twitter.com/Bharatgl_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Bharatgl_?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
-/></a><a href="https://www.github.com/bharatgl" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Bharatgl_?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"/></a>
+<a href="https://www.github.com/bharatgl" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
+<hr>
 
 ### Skills
 
@@ -35,19 +36,20 @@ src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+<hr>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bharatgl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bharatgl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/bharatgl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Bharatgl_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<hr>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/bharatgl"><img src="https://github-readme-stats.vercel.app/api?username=bharatgl&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=444e59&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="bharatgl's GitHub stats" /></a>
-
 <a href="http://www.github.com/bharatgl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgl&stroke=444e59&background=ffffff&ring=f97316&fire=f97316&currStreakNum=444e59&currStreakLabel=f97316&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+<hr>
 
 ### Support Me
 
