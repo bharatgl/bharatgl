@@ -14,6 +14,7 @@ I am a Student and Full Stack Developer
 src="https://img.shields.io/twitter/follow/Bharatgl_?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"/></a>
 <a href="https://www.github.com/bharatgl" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatgl&label=Profile%20views&color=0e75b6&style=flat" alt="bharatgl" /> </p>
 <hr>
 
 ### Skills
