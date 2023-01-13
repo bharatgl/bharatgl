@@ -54,17 +54,18 @@ src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# Github Activity📊:
+
 <div>
     <p align="center">
         <div align="center">
             <table>
                 <tr>
                     <td>
-                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyagoel&&show_icons=true&&theme=algolia" alt="GitHub Stats" />
+                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgl&&show_icons=true&&theme=algolia" alt="GitHub Stats" />
                     </td>
                     <td>
-                        <img height=180 src="https://github-readme-stats.vercel.app/api?username=bhavyagoel&&show_icons=true&theme=algolia">
+                        <img height=180 src="https://github-readme-stats.vercel.app/api?username=bharatgl&&show_icons=true&theme=algolia">
                     </td>
                 </tr>
             </table>
@@ -81,6 +82,7 @@ src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-
         </div>
     </p>
 </div>
+
 
 ### Support Me
 
