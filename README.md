@@ -64,9 +64,9 @@ src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-
                     <td>
                         <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgl&&show_icons=true&&theme=algolia" alt="GitHub Stats" />
                     </td>
-                    <td>
+<!--                     <td>
                         <img height=180 src="https://github-readme-stats.vercel.app/api?username=bharatgl&&show_icons=true&theme=algolia">
-                    </td>
+                    </td> -->
                 </tr>
             </table>
             <table>
@@ -77,8 +77,8 @@ src="https://img.shields.io/github/followers/bharatgl?logo=github&style=for-the-
                 </tr>
             </table>
             <br>
-            <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=bharatgl&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatgl&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
+<!--             <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=bharatgl&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatgl&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" > -->
         </div>
     </p>
 </div>
