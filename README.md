@@ -5,7 +5,7 @@ I am a Student and Full Stack Developer
 ------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [bgoyal1471@gmail.com](mailto:bgoyal1471@gmail.com)
+* ✉️  You can contact me at [goyalbharat997@gmail.com](mailto:goyalbharat997@gmail.com)
 * 🧠  I'm learning MERN Stack and Data Structure Algorithms in Java
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am enthusiast about open source projects
