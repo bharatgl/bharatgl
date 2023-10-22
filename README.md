@@ -1,7 +1,7 @@
 Hi 👋 My name is Bharat Goyal
 =============================
 
-I am a Student and Full Stack Developer 
+I am a Graduate and Full Stack Developer 
 ------------------------
 
 * 🌍  I'm based in India
