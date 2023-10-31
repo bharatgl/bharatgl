@@ -3,7 +3,7 @@
 [![GitHub bharatgl](https://img.shields.io/github/followers/bharatgl?label=follow&style=social)](https://github.com/bharatgl)
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Bharat%20Goyal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bharatgl/)](https://www.linkedin.com/in/bharatgl/)
 [![Twitter: Bharat Goyal](https://img.shields.io/twitter/follow/bharatgl_?style=social)](https://twitter.com/bharatgl_)
-[![Peerlist](https://github-readme-badge.peerlist.io/api/bharatgoyal?style=flat)](https://peerlist.io/bharatgoyal)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/bharatgoyal?style=social)](https://peerlist.io/bharatgoyal)
 [![Hashnode Badge](https://img.shields.io/badge/-@Bharat%20Goyal-white?style=social&labelColor=blue&logo=hashnode&link=https://hashnode.com/@bharatgl)](https://hashnode.com/@bharatgl)
 
   
